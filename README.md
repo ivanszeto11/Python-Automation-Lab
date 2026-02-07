@@ -15,3 +15,4 @@ Your task is to create an algorithm that uses Python code to check whether the a
 
 ## Project Document
 
+<a href="https://github.com/ivanszeto11/Python-Automation-Lab/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf">Algorithm for file updates in Python</a>
